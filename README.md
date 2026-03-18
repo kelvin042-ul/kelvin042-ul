@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm [Your Name]
+### React & Firebase Developer | UI Component Specialist
 
-<!--
-**kelvin042-ul/kelvin042-ul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, responsive, and secure web applications. Currently focusing on e-commerce solutions and reusable React components to help developers launch faster.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+- **Frontend:** React.js, CSS3, Tailwind (Learning)
+- **Backend:** Firebase (Auth, Firestore, Hosting)
+- **Tools:** Git, VS Code, Vercel, Netlify, Cloudfare
+
+### 📂 Featured Work
+- **[E-Commerce Storefront](./link-to-repo):** Full-stack shop with Firebase integration.
+- **[React Component Library](./link-to-repo):** Premium, ready-to-use UI components for sale.
+
+### 📬 Let's Connect
+- 💼 **Hire me on Contra:** [Your Contra Link]
+- 💬 **WhatsApp for Inquiries:** [https://wa.me/2349037528459]
+- 🐦 **Twitter:** @[YourHandle]
+
+---
+*⚡ Fun fact: I’m a student developer building in public and turning code into digital products.*

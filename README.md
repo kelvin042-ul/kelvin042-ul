@@ -6,7 +6,7 @@ I build fast, responsive, and secure web applications. Currently focusing on e-c
 ---
 
 ### 🛠️ My Tech Stack
-- **Frontend:** React.js, CSS3, Tailwind (Learning)
+- **Frontend:** React.js, CSS3, Tailwind, Vue.js(learning)
 - **Backend:** Firebase (Auth, Firestore, Hosting), Node JS(Learning)
 - **Tools:** Git, VS Code, Vercel, Netlify, Cloudfare
 

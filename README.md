@@ -12,7 +12,9 @@ I build fast, responsive, and secure web applications. Currently focusing on e-c
 
 ### 📂 Featured Work
 - **E-Commerce Storefront (Link to repo [https://github.com/kelvin042-ul/E-commerce] ):** Full-stack shop with Firebase integration.
-- **React Component Library(Link to repo [https://github.com/kelvin042-ul/React-Components] ):** Premium, ready-to-use UI components for sale.
+- **E-Commerce1 Storefront (Link to repo [https://github.com/kelvin042-ul/E-commerce1] ):** Full-stack shop with Firebase integration.
+- **React Component Library(Link to repo [https://github.com/kelvin042-ul/React-Components] ):** Premium, ready-to-use UI components for use.
+- **React Templates Library(Link to repo [https://github.com/kelvin042-ul/React-Templates] ):** Premium, ready-to-use UI components for use.
 
 ### 📬 Let's Connect
 - 💼 **Hire me on Contra:** [Your Contra Link]
